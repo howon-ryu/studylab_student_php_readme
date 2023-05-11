@@ -27,6 +27,14 @@ fullcalendar를 바탕으로 합니다
 등록된 일정을 클릭하면 수정과 삭제를 할 수 있습니다.  
 수정에서는 타이틀, 분류코드, 시간을 변경 할 수 있습니다.
 
+
+
+<img src="https://github.com/howon-ryu/studylab_student_php_readme/assets/75923078/e902d298-eb3a-4966-aaf4-c8c4a6c6755a" width="300" height="200" />   
+
+위와 같은 방식으로 일정을 추가하거나 변경 할 수 있습니다.
+
+
+
 <br>
 
 **▷타이머()**
@@ -57,6 +65,16 @@ to do list 에 있는 일정에 done 버튼을 클릭하면 평점을 설정할�
 일/주/월 별로 누적된 공부 시간을 볼 수 있으며, amchart를 통한 가시적인 통계를 제공합니다.
 레포트 안에 있는 달력은 fullcalendar를 바탕으로 하며, 해당 날짜 클릭시 클릭된 날짜에 맞는 일/주/월 정보를 제공합니다.
 
+
+<br>
+
+**▷동시로그인방지**
+
+현재 세션과 db에 저장된 세션을 비교하여 불일치 할 시 강제 로그아웃 구현
+
+
+
+
 <br>
 
 **▷상벌점(예정)**
@@ -73,14 +91,14 @@ to do list 에 있는 일정에 done 버튼을 클릭하면 평점을 설정할�
 <br>
 
 
-**▷Special thanks
+**▷Special thanks**
 
 이 프로젝트를 개발하면서 사용한 외부 소스 입니다.   
 
 - [Fullcalendar](https://fullcalendar.io/) - 일정 계획 및 레포트 보기 달력
 - [NHN_TOAST_SMS](https://docs.nhncloud.com/ko/Notification/SMS/ko/Overview/) - 레포트 sms 전송
 - [AmCharts](https://www.amcharts.com/) - 레포트 가시화
-
+- [HighChart](https://www.highcharts.com/blog/homepage21may/) - 레포트 가시화
   
     <br>
       
