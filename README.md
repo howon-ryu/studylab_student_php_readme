@@ -57,6 +57,7 @@ to do list 에 있는 일정에 done 버튼을 클릭하면 평점을 설정할�
 <br>
 
 **▷상벌점()**
+
 <img src="https://github.com/howon-ryu/studylab_student_php_readme/assets/75923078/538c87ba-f5e4-4c4c-914c-9e49e506dcf1" width="300" height="200" />   
 
 학습을 마친 item에 대하여 평점을 매길수 있습니다.
