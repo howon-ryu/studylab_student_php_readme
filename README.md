@@ -49,7 +49,7 @@ reverse 버튼을 통해 스톱워치 모드로 변경 할 수 도 있습니다.
 
 **▷평점(done 버튼)**
 
-<img src="https://github.com/howon-ryu/studylab_student_php_readme/assets/75923078/538c87ba-f5e4-4c4c-914c-9e49e506dcf1" width="300" height="200" /> 
+<img src="https://github.com/howon-ryu/python_algorithm/assets/75923078/f2712165-9667-44fc-9468-9bab1cb4eca5" width="300" height="200" /> 
 
 to do list 에 있는 일정에 done 버튼을 클릭하면 평점을 설정할수 있습니다.
 1~5 점까지 0.5 사이의 점수를 해당 일정에 매길 수 있습니다.
