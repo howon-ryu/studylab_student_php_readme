@@ -29,7 +29,7 @@ fullcalendar를 바탕으로 합니다
 
 
 
-<img src="https://github.com/howon-ryu/studylab_student_php_readme/assets/75923078/e902d298-eb3a-4966-aaf4-c8c4a6c6755a" width="300" height="200" />   
+<img src="https://github.com/howon-ryu/python_algorithm/assets/75923078/c74a0d40-20cc-4ea9-ad03-1964f8d1d6d2" width="300" height="200" />   
 
 위와 같은 방식으로 일정을 추가하거나 변경 할 수 있습니다.
 
